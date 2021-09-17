@@ -1,0 +1,52 @@
+body {
+    background: #100a1c;
+    background-image:
+      radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0,0,0,0) 100%),
+      radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);
+    background-attachment: fixed;
+      font: 300 18px/1.6 Source Sans Pro, sans-serif;
+    text-align: center;
+    margin: 10;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .container {
+      background-color: white;
+      weight: auto;
+      width: 400px;
+      padding: 10px;
+      margin: auto;
+      border-radius: 30px;
+      box-shadow: 5px 5px 15px #8a504ab7;
+  }
+  
+  .page-title {
+    color: #261226;
+    margin: auto;
+    font-size: 30px;
+  }
+  
+  .page-subtitle {
+    color: #261226;
+    margin-top: auto;
+  }
+  
+  input {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
+  label {
+    color: #261226;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 15px;
+    background: #ffffff;
+    font: Source Sans Pro, sans-serif
+  }
+  
