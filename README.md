@@ -1,5 +1,6 @@
 # 📱💰 Conversor de Moedas
-> Desenvolvido na Imersão Dev da @Alura <br>
+> Desenvolvido na Imersão Dev da Alura
+> 
 > Desenvolvido por Vitória de Valois, no projeto Imersao Dev da Alura (14/09/21).
 
 ## 💻 Tecnologias Usadas
